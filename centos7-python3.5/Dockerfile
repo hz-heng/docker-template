@@ -1,7 +1,7 @@
-#####################################################
-# Dockerfile to build a python3.5 develop environment
+##########################################################
+# Dockerfile to build a python3.5  development environment
 # Based on a centos 7 Image
-#####################################################
+##########################################################
 
 # Set the base image to use to centos 7
 FROM centos:7
